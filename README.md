@@ -1,5 +1,6 @@
 <h2>Team. 반미콩🥙</h2>
 <br/>
+
 <div align="center">
 <br/>
 <img src="client/public/logo.png" style="width:200px;"/>
@@ -15,6 +16,7 @@
 </p>
 <br/>
 </div>
+<img src="https://github.com/codestates-seb/seb43_main_009/assets/82639552/e74a72cc-da06-4ef5-9a5f-6e13e0cd1910" />
 <br>
 
 <h2> 🔗 배포링크 </h2>
